@@ -1,0 +1,2682 @@
+## Document Information
+SPDXVersion: SPDX-2.2
+DataLicense: CC0-1.0
+SPDXID: SPDXRef-DOCUMENT
+DocumentName: SPDX Document created by ScanCode Toolkit
+DocumentNamespace: http://spdx.org/spdxdocs/commons_codec_1_18_0_src-e2022b57-f628-4c82-be10-6e1a35ea2dc7
+DocumentComment: <text>Generated with ScanCode and provided on an "AS IS" BASIS, WITHOUT WARRANTIES
+OR CONDITIONS OF ANY KIND, either express or implied. No content created from
+ScanCode should be considered or used as legal advice. Consult an Attorney
+for any legal advice.
+ScanCode is a free software code scanning tool from nexB Inc. and others.
+Visit https://github.com/nexB/scancode-toolkit/ for support and download.
+SPDX License List: 3.27</text>
+
+## Creation Information
+LicenseListVersion: 3.27
+Creator: Tool: scancode-toolkit 32.5.0
+Created: 2026-10-29T05:32:34Z
+
+## Package Information
+PackageName: commons_codec_1_18_0_src
+SPDXID: SPDXRef-001
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: true
+PackageVerificationCode: 79e17bd02f5d7a30c8e5a5a19d19645509f5a98f
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseInfoFromFiles: Apache-1.1
+PackageLicenseInfoFromFiles: Apache-2.0
+PackageLicenseInfoFromFiles: BSD-3-Clause
+PackageLicenseInfoFromFiles: LicenseRef-scancode-generic-cla
+PackageLicenseInfoFromFiles: LicenseRef-scancode-other-permissive
+PackageLicenseInfoFromFiles: LicenseRef-scancode-public-domain
+PackageLicenseInfoFromFiles: LicenseRef-scancode-unknown-license-reference
+PackageLicenseDeclared: NOASSERTION
+PackageCopyrightText: <text>Copyright (c) 2002 Kevin Atkinson (kevina@gnu.org)
+Copyright (c) 2004-2006 Intel Corporation
+Copyright 2002-2025 The Apache Software Foundation
+</text>
+
+## File Information
+FileName: ./commons-codec-1.18.0-src/CODE_OF_CONDUCT.md
+SPDXID: SPDXRef-2
+FileChecksum: SHA1: 25c9d61098f119feee0f8431d6da4a69bc40f444
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-codec-1.18.0-src/CONTRIBUTING.md
+SPDXID: SPDXRef-3
+FileChecksum: SHA1: eb4cb8cb5dbc6536642a32246d3e80a4f11aa504
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+LicenseInfoInFile: LicenseRef-scancode-generic-cla
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-codec-1.18.0-src/LICENSE.txt
+SPDXID: SPDXRef-4
+FileChecksum: SHA1: 2b8b815229aa8a61e483fb4ba0588b8b6c491890
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-codec-1.18.0-src/NOTICE.txt
+SPDXID: SPDXRef-5
+FileChecksum: SHA1: 543c8a1701f501004e942b0f66d89794e098daf1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text>Copyright 2002-2025 The Apache Software Foundation
+</text>
+
+## File Information
+FileName: ./commons-codec-1.18.0-src/pom.xml
+SPDXID: SPDXRef-6
+FileChecksum: SHA1: 2aa7395e4e4d63be2fd4439da7a01527235f76bf
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-codec-1.18.0-src/README.md
+SPDXID: SPDXRef-7
+FileChecksum: SHA1: 68f013928db6b0a239467c886323b09053839044
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+LicenseInfoInFile: LicenseRef-scancode-generic-cla
+LicenseInfoInFile: LicenseRef-scancode-unknown-license-reference
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-codec-1.18.0-src/RELEASE-NOTES.txt
+SPDXID: SPDXRef-8
+FileChecksum: SHA1: d69c60557a7af951e13d09e053aebd5f20c716a7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NONE
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-codec-1.18.0-src/SECURITY.md
+SPDXID: SPDXRef-9
+FileChecksum: SHA1: 70e49a7eef79ade4fdf3592ff25c4c83be992fab
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-codec-1.18.0-src/src/assembly/bin.xml
+SPDXID: SPDXRef-12
+FileChecksum: SHA1: 528b082f62b0c9249130484bc8dca00ba708cd8a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-codec-1.18.0-src/src/assembly/src.xml
+SPDXID: SPDXRef-13
+FileChecksum: SHA1: ecc076497524d26c8f89599048b81a99a8000d07
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-codec-1.18.0-src/src/changes/changes.xml
+SPDXID: SPDXRef-15
+FileChecksum: SHA1: d65ffaa6023fef62af2cc1ebf946ae3d16d22b9c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+LicenseInfoInFile: LicenseRef-scancode-unknown-license-reference
+LicenseInfoInFile: Apache-1.1
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-codec-1.18.0-src/src/changes/release-notes.vm
+SPDXID: SPDXRef-16
+FileChecksum: SHA1: b2f3a9ae738a5f8bf69897ad71e381dc74fc5db1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-codec-1.18.0-src/src/conf/checkstyle-header.txt
+SPDXID: SPDXRef-18
+FileChecksum: SHA1: b028405645789c5751e9ddab98aeab563a97aaa6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-codec-1.18.0-src/src/conf/checkstyle-suppressions.xml
+SPDXID: SPDXRef-19
+FileChecksum: SHA1: 5bfdaba9b1345bc72ced7079c90008cc909a9ffc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-codec-1.18.0-src/src/conf/checkstyle.xml
+SPDXID: SPDXRef-20
+FileChecksum: SHA1: 0ca32a0ff5d9203e908e96c0063238e5283d81ee
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-codec-1.18.0-src/src/conf/pmd.xml
+SPDXID: SPDXRef-21
+FileChecksum: SHA1: 032f4c06745fb7a267650fe12e94cc9c8c67ef17
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-codec-1.18.0-src/src/main/java/org/apache/commons/codec/BinaryDecoder.java
+SPDXID: SPDXRef-28
+FileChecksum: SHA1: a3d01ee299dcb496a92e00e9e69ed90f590614be
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-codec-1.18.0-src/src/main/java/org/apache/commons/codec/BinaryEncoder.java
+SPDXID: SPDXRef-29
+FileChecksum: SHA1: 43564809b5379f70ddf4403df8ad950ef326dfa0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-codec-1.18.0-src/src/main/java/org/apache/commons/codec/CharEncoding.java
+SPDXID: SPDXRef-30
+FileChecksum: SHA1: e9c67ddc2b7fba3c071452b088cd86b4303b5eca
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-codec-1.18.0-src/src/main/java/org/apache/commons/codec/Charsets.java
+SPDXID: SPDXRef-31
+FileChecksum: SHA1: e699b57053a88e164462e8dc4194128db31a3fa8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-codec-1.18.0-src/src/main/java/org/apache/commons/codec/CodecPolicy.java
+SPDXID: SPDXRef-32
+FileChecksum: SHA1: 77e7a40ff39ac87e139e9c06272c641fb822f765
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-codec-1.18.0-src/src/main/java/org/apache/commons/codec/Decoder.java
+SPDXID: SPDXRef-33
+FileChecksum: SHA1: 6a0422a26510162f49061fed05a880af2c92712a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-codec-1.18.0-src/src/main/java/org/apache/commons/codec/DecoderException.java
+SPDXID: SPDXRef-34
+FileChecksum: SHA1: f07ac635ecd1a083dcc3eb12b4b6aceb05cf37d4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-codec-1.18.0-src/src/main/java/org/apache/commons/codec/Encoder.java
+SPDXID: SPDXRef-35
+FileChecksum: SHA1: d072ebb7b5faa6fcdd63a7054409689b6744e85b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-codec-1.18.0-src/src/main/java/org/apache/commons/codec/EncoderException.java
+SPDXID: SPDXRef-36
+FileChecksum: SHA1: 61416f6c820255d2e1b272874cecf08211f5b9a6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-codec-1.18.0-src/src/main/java/org/apache/commons/codec/package-info.java
+SPDXID: SPDXRef-37
+FileChecksum: SHA1: c0f46f2ee4d1ca6c53c88ef71a426444ccb4d3bd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-codec-1.18.0-src/src/main/java/org/apache/commons/codec/Resources.java
+SPDXID: SPDXRef-38
+FileChecksum: SHA1: 882b278e2b23fb485f3bf7274a9a7601f047410b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-codec-1.18.0-src/src/main/java/org/apache/commons/codec/StringDecoder.java
+SPDXID: SPDXRef-39
+FileChecksum: SHA1: 66b7be70c5bfaa8e0b55a218a00ba27a2f8886a8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-codec-1.18.0-src/src/main/java/org/apache/commons/codec/StringEncoder.java
+SPDXID: SPDXRef-40
+FileChecksum: SHA1: 089fbe9c2b2be50161ec16597351c4ed52445ccc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-codec-1.18.0-src/src/main/java/org/apache/commons/codec/StringEncoderComparator.java
+SPDXID: SPDXRef-41
+FileChecksum: SHA1: 8d918075efaf861c55f57e2702011b26dcc0a217
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-codec-1.18.0-src/src/main/java/org/apache/commons/codec/binary/Base16.java
+SPDXID: SPDXRef-43
+FileChecksum: SHA1: 7433acbcb7f2bc0d5cd3ea31b1cb1c57bb8937e8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-codec-1.18.0-src/src/main/java/org/apache/commons/codec/binary/Base16InputStream.java
+SPDXID: SPDXRef-44
+FileChecksum: SHA1: 316650ae46d83bbaf526a24934bb356b98411c8f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-codec-1.18.0-src/src/main/java/org/apache/commons/codec/binary/Base16OutputStream.java
+SPDXID: SPDXRef-45
+FileChecksum: SHA1: 68fed737f8b0a99a37802152569fee8707115da8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-codec-1.18.0-src/src/main/java/org/apache/commons/codec/binary/Base32.java
+SPDXID: SPDXRef-46
+FileChecksum: SHA1: b2a7e2eeda327a9f10fd6ef58c7399885d4984d2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-codec-1.18.0-src/src/main/java/org/apache/commons/codec/binary/Base32InputStream.java
+SPDXID: SPDXRef-47
+FileChecksum: SHA1: 4b04b642ac8681b38a2877c214e1163ea786a980
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-codec-1.18.0-src/src/main/java/org/apache/commons/codec/binary/Base32OutputStream.java
+SPDXID: SPDXRef-48
+FileChecksum: SHA1: 66540b5c3fdc35a02b4870fe1d01deff43dff059
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-codec-1.18.0-src/src/main/java/org/apache/commons/codec/binary/Base64.java
+SPDXID: SPDXRef-49
+FileChecksum: SHA1: 474fbd86442a896159e20666b83944cdc7d0cea2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-codec-1.18.0-src/src/main/java/org/apache/commons/codec/binary/Base64InputStream.java
+SPDXID: SPDXRef-50
+FileChecksum: SHA1: 0ec91f4a68e6b994289521c4979dbf19d8a83fdd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-codec-1.18.0-src/src/main/java/org/apache/commons/codec/binary/Base64OutputStream.java
+SPDXID: SPDXRef-51
+FileChecksum: SHA1: edca4bc0acf3587eaa60c7d659cd0a66715e0c6d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-codec-1.18.0-src/src/main/java/org/apache/commons/codec/binary/BaseNCodec.java
+SPDXID: SPDXRef-52
+FileChecksum: SHA1: fde74807d3a6816ba937708e49148c9f914c0129
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-codec-1.18.0-src/src/main/java/org/apache/commons/codec/binary/BaseNCodecInputStream.java
+SPDXID: SPDXRef-53
+FileChecksum: SHA1: b984ae344f9d8ce2203c07e717361b1eef0ee840
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-codec-1.18.0-src/src/main/java/org/apache/commons/codec/binary/BaseNCodecOutputStream.java
+SPDXID: SPDXRef-54
+FileChecksum: SHA1: 073a70304e0c7828070a1e096c31ab3478254585
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-codec-1.18.0-src/src/main/java/org/apache/commons/codec/binary/BinaryCodec.java
+SPDXID: SPDXRef-55
+FileChecksum: SHA1: 36227f04b6aa2d6e12b9047cbe9e71985351c749
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-codec-1.18.0-src/src/main/java/org/apache/commons/codec/binary/CharSequenceUtils.java
+SPDXID: SPDXRef-56
+FileChecksum: SHA1: f57d902b8bb0e7bae3b196f0b005ef55a5dca44e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-codec-1.18.0-src/src/main/java/org/apache/commons/codec/binary/Hex.java
+SPDXID: SPDXRef-57
+FileChecksum: SHA1: 3dcebdab0abd397ace5c7922b07e6d8f794a1032
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-codec-1.18.0-src/src/main/java/org/apache/commons/codec/binary/package-info.java
+SPDXID: SPDXRef-58
+FileChecksum: SHA1: 11d84706ecfabbe9a8fadd93e23070bf25d95626
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-codec-1.18.0-src/src/main/java/org/apache/commons/codec/binary/StringUtils.java
+SPDXID: SPDXRef-59
+FileChecksum: SHA1: 56e62c370cfecb55611e93243b07012747e6e8b9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-codec-1.18.0-src/src/main/java/org/apache/commons/codec/cli/Digest.java
+SPDXID: SPDXRef-61
+FileChecksum: SHA1: d0d1cbdad9b387be21f9b62a189a9cd1bee3b170
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-codec-1.18.0-src/src/main/java/org/apache/commons/codec/cli/package-info.java
+SPDXID: SPDXRef-62
+FileChecksum: SHA1: e9537d00e72c9468273c156b504a11d96b4d5240
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-codec-1.18.0-src/src/main/java/org/apache/commons/codec/digest/B64.java
+SPDXID: SPDXRef-64
+FileChecksum: SHA1: 76d4bbed79ae4ed1039964cf1f61779b3948b2cd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-codec-1.18.0-src/src/main/java/org/apache/commons/codec/digest/Blake3.java
+SPDXID: SPDXRef-65
+FileChecksum: SHA1: 47dcb03db05e3f822ba0581babe733468d3926f2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+LicenseInfoInFile: LicenseRef-scancode-public-domain
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-codec-1.18.0-src/src/main/java/org/apache/commons/codec/digest/Crypt.java
+SPDXID: SPDXRef-66
+FileChecksum: SHA1: 75114f82528b847ecba4f21300e4293d46668e49
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-codec-1.18.0-src/src/main/java/org/apache/commons/codec/digest/DigestUtils.java
+SPDXID: SPDXRef-67
+FileChecksum: SHA1: 4f25f582b3556cda4401a0dec4e9dad20bff45e7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-codec-1.18.0-src/src/main/java/org/apache/commons/codec/digest/HmacAlgorithms.java
+SPDXID: SPDXRef-68
+FileChecksum: SHA1: 9c729a5031641f744c02271579e00afe6dc47e7d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-codec-1.18.0-src/src/main/java/org/apache/commons/codec/digest/HmacUtils.java
+SPDXID: SPDXRef-69
+FileChecksum: SHA1: 8a8d1cea19071d1aab3450a20197da3b4fe29dd1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-codec-1.18.0-src/src/main/java/org/apache/commons/codec/digest/Md5Crypt.java
+SPDXID: SPDXRef-70
+FileChecksum: SHA1: 2bf2308565436139981f7aea3ab5ebee5fe74e6a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-codec-1.18.0-src/src/main/java/org/apache/commons/codec/digest/MessageDigestAlgorithms.java
+SPDXID: SPDXRef-71
+FileChecksum: SHA1: 7e4e777a85352ddd02b2b4bd885ca373a0cc0ca0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-codec-1.18.0-src/src/main/java/org/apache/commons/codec/digest/MurmurHash2.java
+SPDXID: SPDXRef-72
+FileChecksum: SHA1: 28c3ebaa69ec8775bb7ff9d53879180b40ae1200
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+LicenseInfoInFile: LicenseRef-scancode-public-domain
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-codec-1.18.0-src/src/main/java/org/apache/commons/codec/digest/MurmurHash3.java
+SPDXID: SPDXRef-73
+FileChecksum: SHA1: 43ac0d8b224e0cbb123c8d25fc901c114bca18b8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+LicenseInfoInFile: LicenseRef-scancode-public-domain
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-codec-1.18.0-src/src/main/java/org/apache/commons/codec/digest/package-info.java
+SPDXID: SPDXRef-74
+FileChecksum: SHA1: 76be81123347e083f5891a67ec685e529058f8bc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-codec-1.18.0-src/src/main/java/org/apache/commons/codec/digest/PureJavaCrc32.java
+SPDXID: SPDXRef-75
+FileChecksum: SHA1: b88ef840c3d2139623c1b461bd5c7f75e93d8c6b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-codec-1.18.0-src/src/main/java/org/apache/commons/codec/digest/PureJavaCrc32C.java
+SPDXID: SPDXRef-76
+FileChecksum: SHA1: cf0ac03b034ec5f5f11b0fdbb02ad3b0e1daf9b3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+LicenseInfoInFile: BSD-3-Clause
+FileCopyrightText: <text>Copyright (c) 2004-2006 Intel Corporation
+</text>
+
+## File Information
+FileName: ./commons-codec-1.18.0-src/src/main/java/org/apache/commons/codec/digest/Sha2Crypt.java
+SPDXID: SPDXRef-77
+FileChecksum: SHA1: 6b972be6e8efcb14a35fd2860daa0ac754459bd5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+LicenseInfoInFile: LicenseRef-scancode-public-domain
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-codec-1.18.0-src/src/main/java/org/apache/commons/codec/digest/UnixCrypt.java
+SPDXID: SPDXRef-78
+FileChecksum: SHA1: db0cf5d395e08696736d97e0fe09fb3f9ecf808c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-codec-1.18.0-src/src/main/java/org/apache/commons/codec/digest/XXHash32.java
+SPDXID: SPDXRef-79
+FileChecksum: SHA1: acd49a7bbd07f40a2db87cc074e4c78702c6f46c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-codec-1.18.0-src/src/main/java/org/apache/commons/codec/language/AbstractCaverphone.java
+SPDXID: SPDXRef-81
+FileChecksum: SHA1: 3804391ade164b540476df46ca090eca4ff8ce24
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-codec-1.18.0-src/src/main/java/org/apache/commons/codec/language/Caverphone.java
+SPDXID: SPDXRef-82
+FileChecksum: SHA1: 2c64a691b84a037b8624c30501f91ee60f219a81
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-codec-1.18.0-src/src/main/java/org/apache/commons/codec/language/Caverphone1.java
+SPDXID: SPDXRef-83
+FileChecksum: SHA1: 6d7b40c228197ae74eaec1c5bb9dae84014608a0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-codec-1.18.0-src/src/main/java/org/apache/commons/codec/language/Caverphone2.java
+SPDXID: SPDXRef-84
+FileChecksum: SHA1: e834e7a1ece098c655086e92d3b57c458eafdbfc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-codec-1.18.0-src/src/main/java/org/apache/commons/codec/language/ColognePhonetic.java
+SPDXID: SPDXRef-85
+FileChecksum: SHA1: bbfa735ba3c0c87253124f8a4b0d6250819c0cb4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-codec-1.18.0-src/src/main/java/org/apache/commons/codec/language/DaitchMokotoffSoundex.java
+SPDXID: SPDXRef-86
+FileChecksum: SHA1: edfe9bbc91cead8dafb4e386d54e33bfb8485121
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-codec-1.18.0-src/src/main/java/org/apache/commons/codec/language/DoubleMetaphone.java
+SPDXID: SPDXRef-87
+FileChecksum: SHA1: 19b219ffbfabe721402b3e83066d6b73478c283e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-codec-1.18.0-src/src/main/java/org/apache/commons/codec/language/MatchRatingApproachEncoder.java
+SPDXID: SPDXRef-88
+FileChecksum: SHA1: 569a3b345f680acdcaf8ea9dea2dfc05ddc5312a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-codec-1.18.0-src/src/main/java/org/apache/commons/codec/language/Metaphone.java
+SPDXID: SPDXRef-89
+FileChecksum: SHA1: b4373d3129722b67de82c86daca0b1146eaab2e9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-codec-1.18.0-src/src/main/java/org/apache/commons/codec/language/Nysiis.java
+SPDXID: SPDXRef-90
+FileChecksum: SHA1: da0afa4e5b19b76096ccfe918a0a39074f7aa4a8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-codec-1.18.0-src/src/main/java/org/apache/commons/codec/language/package-info.java
+SPDXID: SPDXRef-91
+FileChecksum: SHA1: db7329561eedf6a011eaf47d644409ae4b2cc79a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-codec-1.18.0-src/src/main/java/org/apache/commons/codec/language/RefinedSoundex.java
+SPDXID: SPDXRef-92
+FileChecksum: SHA1: 7a34383c343cd4bfe83bdf2fb5ed5ad64b07fa66
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-codec-1.18.0-src/src/main/java/org/apache/commons/codec/language/Soundex.java
+SPDXID: SPDXRef-93
+FileChecksum: SHA1: 0b5049e7e195a8d470d37617ff6efa3ae44ac9bc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-codec-1.18.0-src/src/main/java/org/apache/commons/codec/language/SoundexUtils.java
+SPDXID: SPDXRef-94
+FileChecksum: SHA1: 18845b7117c0e427bd170df7b6cd6f15f05ea756
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-codec-1.18.0-src/src/main/java/org/apache/commons/codec/language/bm/BeiderMorseEncoder.java
+SPDXID: SPDXRef-96
+FileChecksum: SHA1: 73b4e3a463080f55e37ef450eacfe886744fb7a3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-codec-1.18.0-src/src/main/java/org/apache/commons/codec/language/bm/Lang.java
+SPDXID: SPDXRef-97
+FileChecksum: SHA1: c17835789acd75b2eaf8b4d3f28afbc6d983587d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-codec-1.18.0-src/src/main/java/org/apache/commons/codec/language/bm/Languages.java
+SPDXID: SPDXRef-98
+FileChecksum: SHA1: 470f629539566ea1867e85d61d9bbfdca955dca7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-codec-1.18.0-src/src/main/java/org/apache/commons/codec/language/bm/NameType.java
+SPDXID: SPDXRef-99
+FileChecksum: SHA1: 5360c377b566547cdaa70027a1d6968d11360b09
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-codec-1.18.0-src/src/main/java/org/apache/commons/codec/language/bm/package-info.java
+SPDXID: SPDXRef-100
+FileChecksum: SHA1: c7c897c58c954f4a39fe1df8aa301fabe1706f53
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-codec-1.18.0-src/src/main/java/org/apache/commons/codec/language/bm/PhoneticEngine.java
+SPDXID: SPDXRef-101
+FileChecksum: SHA1: c3bf4d640b735fc62a24c0fa9876ddb7a3a0563b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-codec-1.18.0-src/src/main/java/org/apache/commons/codec/language/bm/ResourceConstants.java
+SPDXID: SPDXRef-102
+FileChecksum: SHA1: c71aabc75db486fe1a11f554f814546eafb18190
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-codec-1.18.0-src/src/main/java/org/apache/commons/codec/language/bm/Rule.java
+SPDXID: SPDXRef-103
+FileChecksum: SHA1: 65a35242163654326568a2010d3669b35862c810
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-codec-1.18.0-src/src/main/java/org/apache/commons/codec/language/bm/RuleType.java
+SPDXID: SPDXRef-104
+FileChecksum: SHA1: 6395da7f377638d1febbc479646a755deab90493
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-codec-1.18.0-src/src/main/java/org/apache/commons/codec/net/BCodec.java
+SPDXID: SPDXRef-106
+FileChecksum: SHA1: 49a13c52414bb4026f256e073580c03f8b5f69c5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-codec-1.18.0-src/src/main/java/org/apache/commons/codec/net/package-info.java
+SPDXID: SPDXRef-107
+FileChecksum: SHA1: f3ba68520d328c0f1c51ce2e651e03edf1f1cdfb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-codec-1.18.0-src/src/main/java/org/apache/commons/codec/net/PercentCodec.java
+SPDXID: SPDXRef-108
+FileChecksum: SHA1: 67a585d450d05c7f81c834f716b9c0858f628779
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-codec-1.18.0-src/src/main/java/org/apache/commons/codec/net/QCodec.java
+SPDXID: SPDXRef-109
+FileChecksum: SHA1: 9a0af0581b27723aca405c6a3d4044ab54d65b6c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-codec-1.18.0-src/src/main/java/org/apache/commons/codec/net/QuotedPrintableCodec.java
+SPDXID: SPDXRef-110
+FileChecksum: SHA1: 75f1610f6ba09e686e6f805e4fe6ab873c657ffd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-codec-1.18.0-src/src/main/java/org/apache/commons/codec/net/RFC1522Codec.java
+SPDXID: SPDXRef-111
+FileChecksum: SHA1: d1dc6fdd0ca1ca3f316b0c0f1012a5daa90e5f17
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-codec-1.18.0-src/src/main/java/org/apache/commons/codec/net/URLCodec.java
+SPDXID: SPDXRef-112
+FileChecksum: SHA1: 12714dd6c4c5c65a7f6e127609a3dcfa2715fbb5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-codec-1.18.0-src/src/main/java/org/apache/commons/codec/net/Utils.java
+SPDXID: SPDXRef-113
+FileChecksum: SHA1: 8430644fbfe89b5e73e8e72fcee2ed55d60cfe89
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-codec-1.18.0-src/src/main/javadoc/overview.html
+SPDXID: SPDXRef-115
+FileChecksum: SHA1: 1f4c38aee9f2436740a6914c92de29e50b47d5b3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-codec-1.18.0-src/src/main/resources/org/apache/commons/codec/language/dmrules.txt
+SPDXID: SPDXRef-122
+FileChecksum: SHA1: fa34e2f3d45304bee729de6d69b80a868de5ecf4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-codec-1.18.0-src/src/main/resources/org/apache/commons/codec/language/bm/ash_approx_any.txt
+SPDXID: SPDXRef-124
+FileChecksum: SHA1: 4b41f4b4daced3bf58f0158feecbb1f3cdaebfcf
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-codec-1.18.0-src/src/main/resources/org/apache/commons/codec/language/bm/ash_approx_common.txt
+SPDXID: SPDXRef-125
+FileChecksum: SHA1: f09e2314e70ec92e0e5ad78f8b0563716ff20185
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-codec-1.18.0-src/src/main/resources/org/apache/commons/codec/language/bm/ash_approx_cyrillic.txt
+SPDXID: SPDXRef-126
+FileChecksum: SHA1: a06398d009ac85c9cba7a4b5a9db4be7629566f4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-codec-1.18.0-src/src/main/resources/org/apache/commons/codec/language/bm/ash_approx_english.txt
+SPDXID: SPDXRef-127
+FileChecksum: SHA1: e0fedae77263c63ee3e0ee3eaaa8fc2a3cf9f61d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-codec-1.18.0-src/src/main/resources/org/apache/commons/codec/language/bm/ash_approx_french.txt
+SPDXID: SPDXRef-128
+FileChecksum: SHA1: ce620502231db3e6aca0f19b5669d10f5150761a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-codec-1.18.0-src/src/main/resources/org/apache/commons/codec/language/bm/ash_approx_german.txt
+SPDXID: SPDXRef-129
+FileChecksum: SHA1: 4ef0c530f395a29991d90b9a5d2033225947ac3a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-codec-1.18.0-src/src/main/resources/org/apache/commons/codec/language/bm/ash_approx_hebrew.txt
+SPDXID: SPDXRef-130
+FileChecksum: SHA1: 9c522da7756e0b486092a5f387b17f5f8c2cf3e8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-codec-1.18.0-src/src/main/resources/org/apache/commons/codec/language/bm/ash_approx_hungarian.txt
+SPDXID: SPDXRef-131
+FileChecksum: SHA1: 68791d924bff99a1a6105f4ab3c6ca1e37e57fce
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-codec-1.18.0-src/src/main/resources/org/apache/commons/codec/language/bm/ash_approx_polish.txt
+SPDXID: SPDXRef-132
+FileChecksum: SHA1: 5fecce0d9ba06b5df3fad0668710ee277b97d601
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-codec-1.18.0-src/src/main/resources/org/apache/commons/codec/language/bm/ash_approx_romanian.txt
+SPDXID: SPDXRef-133
+FileChecksum: SHA1: 4a20144a345d43c9371b39b735f1ae867323eeda
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-codec-1.18.0-src/src/main/resources/org/apache/commons/codec/language/bm/ash_approx_russian.txt
+SPDXID: SPDXRef-134
+FileChecksum: SHA1: 8daa3ad5c3cfd1597d3f2ee02a99d5d0ef55c828
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-codec-1.18.0-src/src/main/resources/org/apache/commons/codec/language/bm/ash_approx_spanish.txt
+SPDXID: SPDXRef-135
+FileChecksum: SHA1: 68791d924bff99a1a6105f4ab3c6ca1e37e57fce
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-codec-1.18.0-src/src/main/resources/org/apache/commons/codec/language/bm/ash_exact_any.txt
+SPDXID: SPDXRef-136
+FileChecksum: SHA1: c88a6850d92d39d07103642ed45f2c34bca854ab
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-codec-1.18.0-src/src/main/resources/org/apache/commons/codec/language/bm/ash_exact_approx_common.txt
+SPDXID: SPDXRef-137
+FileChecksum: SHA1: c0897429da3d2d412c23ec5c2ee203206c9afd29
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-codec-1.18.0-src/src/main/resources/org/apache/commons/codec/language/bm/ash_exact_common.txt
+SPDXID: SPDXRef-138
+FileChecksum: SHA1: 91b39c4552e0939039fe09e0b691af9915407a3a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-codec-1.18.0-src/src/main/resources/org/apache/commons/codec/language/bm/ash_exact_cyrillic.txt
+SPDXID: SPDXRef-139
+FileChecksum: SHA1: c68f6606c286099b7a3b4cc8f5cd747acc893cc2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-codec-1.18.0-src/src/main/resources/org/apache/commons/codec/language/bm/ash_exact_english.txt
+SPDXID: SPDXRef-140
+FileChecksum: SHA1: c68f6606c286099b7a3b4cc8f5cd747acc893cc2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-codec-1.18.0-src/src/main/resources/org/apache/commons/codec/language/bm/ash_exact_french.txt
+SPDXID: SPDXRef-141
+FileChecksum: SHA1: c68f6606c286099b7a3b4cc8f5cd747acc893cc2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-codec-1.18.0-src/src/main/resources/org/apache/commons/codec/language/bm/ash_exact_german.txt
+SPDXID: SPDXRef-142
+FileChecksum: SHA1: 8eb0ae6bde222da26d5e47cc841e728709bed48f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-codec-1.18.0-src/src/main/resources/org/apache/commons/codec/language/bm/ash_exact_hebrew.txt
+SPDXID: SPDXRef-143
+FileChecksum: SHA1: 9c522da7756e0b486092a5f387b17f5f8c2cf3e8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-codec-1.18.0-src/src/main/resources/org/apache/commons/codec/language/bm/ash_exact_hungarian.txt
+SPDXID: SPDXRef-144
+FileChecksum: SHA1: c68f6606c286099b7a3b4cc8f5cd747acc893cc2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-codec-1.18.0-src/src/main/resources/org/apache/commons/codec/language/bm/ash_exact_polish.txt
+SPDXID: SPDXRef-145
+FileChecksum: SHA1: 7116276011bf5e03c69c26fe5301f43928b75d89
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-codec-1.18.0-src/src/main/resources/org/apache/commons/codec/language/bm/ash_exact_romanian.txt
+SPDXID: SPDXRef-146
+FileChecksum: SHA1: c68f6606c286099b7a3b4cc8f5cd747acc893cc2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-codec-1.18.0-src/src/main/resources/org/apache/commons/codec/language/bm/ash_exact_russian.txt
+SPDXID: SPDXRef-147
+FileChecksum: SHA1: 2b77820ee9dfb79df2974a93cbfb4c072deefd8a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-codec-1.18.0-src/src/main/resources/org/apache/commons/codec/language/bm/ash_exact_spanish.txt
+SPDXID: SPDXRef-148
+FileChecksum: SHA1: c68f6606c286099b7a3b4cc8f5cd747acc893cc2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-codec-1.18.0-src/src/main/resources/org/apache/commons/codec/language/bm/ash_hebrew_common.txt
+SPDXID: SPDXRef-149
+FileChecksum: SHA1: 502a56dcce5064b02c1519495c1addacee1e0f3e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-codec-1.18.0-src/src/main/resources/org/apache/commons/codec/language/bm/ash_lang.txt
+SPDXID: SPDXRef-150
+FileChecksum: SHA1: 8b5ef88944cfae6b8a17cd804822cab6da731b50
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-codec-1.18.0-src/src/main/resources/org/apache/commons/codec/language/bm/ash_languages.txt
+SPDXID: SPDXRef-151
+FileChecksum: SHA1: 96e65a65a018b87aad2393ab45bb66e1bf3e68c9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-codec-1.18.0-src/src/main/resources/org/apache/commons/codec/language/bm/ash_rules_any.txt
+SPDXID: SPDXRef-152
+FileChecksum: SHA1: 66fddc0ba64bf7d6b678d2907c5f4604de7e3743
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-codec-1.18.0-src/src/main/resources/org/apache/commons/codec/language/bm/ash_rules_cyrillic.txt
+SPDXID: SPDXRef-153
+FileChecksum: SHA1: 4fbbed7818977794797cf77812946931f87dd747
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-codec-1.18.0-src/src/main/resources/org/apache/commons/codec/language/bm/ash_rules_english.txt
+SPDXID: SPDXRef-154
+FileChecksum: SHA1: 73213c0a850210e54dbb065b1fe9d5343e890309
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-codec-1.18.0-src/src/main/resources/org/apache/commons/codec/language/bm/ash_rules_french.txt
+SPDXID: SPDXRef-155
+FileChecksum: SHA1: 5a759218d2a6aa877f56b171501240cf59f1f7d3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-codec-1.18.0-src/src/main/resources/org/apache/commons/codec/language/bm/ash_rules_german.txt
+SPDXID: SPDXRef-156
+FileChecksum: SHA1: 355acae35d6b4e093b13dd801b46e0c9e19e329a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-codec-1.18.0-src/src/main/resources/org/apache/commons/codec/language/bm/ash_rules_hebrew.txt
+SPDXID: SPDXRef-157
+FileChecksum: SHA1: 7491cda5efec1d7583c1fdeaf8407a21c89bc32a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-codec-1.18.0-src/src/main/resources/org/apache/commons/codec/language/bm/ash_rules_hungarian.txt
+SPDXID: SPDXRef-158
+FileChecksum: SHA1: 4ec887bca685eb1b8983e59ed74cde354fab42be
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-codec-1.18.0-src/src/main/resources/org/apache/commons/codec/language/bm/ash_rules_polish.txt
+SPDXID: SPDXRef-159
+FileChecksum: SHA1: 70f556172e1001591d3296eecc05911eab040809
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-codec-1.18.0-src/src/main/resources/org/apache/commons/codec/language/bm/ash_rules_romanian.txt
+SPDXID: SPDXRef-160
+FileChecksum: SHA1: 0a747f656e47b1a65386fb898799354931f34ffa
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-codec-1.18.0-src/src/main/resources/org/apache/commons/codec/language/bm/ash_rules_russian.txt
+SPDXID: SPDXRef-161
+FileChecksum: SHA1: 7dc57a153c7b5ed969c8c2bea092b9c6595af32a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-codec-1.18.0-src/src/main/resources/org/apache/commons/codec/language/bm/ash_rules_spanish.txt
+SPDXID: SPDXRef-162
+FileChecksum: SHA1: 394a4d16b531bfd5736e583d6ad95f8971098c11
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-codec-1.18.0-src/src/main/resources/org/apache/commons/codec/language/bm/gen_approx_any.txt
+SPDXID: SPDXRef-163
+FileChecksum: SHA1: f64b86a1af3c1c38d7bbee26993a9677bc2d741d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-codec-1.18.0-src/src/main/resources/org/apache/commons/codec/language/bm/gen_approx_arabic.txt
+SPDXID: SPDXRef-164
+FileChecksum: SHA1: 3e5a0942ebc90d88b52b4ab344a4d0528f8eb9cc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-codec-1.18.0-src/src/main/resources/org/apache/commons/codec/language/bm/gen_approx_common.txt
+SPDXID: SPDXRef-165
+FileChecksum: SHA1: ca822f6f9cd74ea43bb20bc9736589b32b015ff8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-codec-1.18.0-src/src/main/resources/org/apache/commons/codec/language/bm/gen_approx_cyrillic.txt
+SPDXID: SPDXRef-166
+FileChecksum: SHA1: 69a4f1f90a84fb91e5495f03c47c7f783af798fb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-codec-1.18.0-src/src/main/resources/org/apache/commons/codec/language/bm/gen_approx_czech.txt
+SPDXID: SPDXRef-167
+FileChecksum: SHA1: 7541b678d50f5f7e1b8d2a1cd05e421b30348823
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-codec-1.18.0-src/src/main/resources/org/apache/commons/codec/language/bm/gen_approx_dutch.txt
+SPDXID: SPDXRef-168
+FileChecksum: SHA1: 7541b678d50f5f7e1b8d2a1cd05e421b30348823
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-codec-1.18.0-src/src/main/resources/org/apache/commons/codec/language/bm/gen_approx_english.txt
+SPDXID: SPDXRef-169
+FileChecksum: SHA1: e0fedae77263c63ee3e0ee3eaaa8fc2a3cf9f61d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-codec-1.18.0-src/src/main/resources/org/apache/commons/codec/language/bm/gen_approx_french.txt
+SPDXID: SPDXRef-170
+FileChecksum: SHA1: a16a0908af4031f7a6bdf69b134b62334aa040c1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-codec-1.18.0-src/src/main/resources/org/apache/commons/codec/language/bm/gen_approx_german.txt
+SPDXID: SPDXRef-171
+FileChecksum: SHA1: ffb617e89567b6a8ae71db0d3bca6e439c0a8cd8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-codec-1.18.0-src/src/main/resources/org/apache/commons/codec/language/bm/gen_approx_greek.txt
+SPDXID: SPDXRef-172
+FileChecksum: SHA1: 7541b678d50f5f7e1b8d2a1cd05e421b30348823
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-codec-1.18.0-src/src/main/resources/org/apache/commons/codec/language/bm/gen_approx_greeklatin.txt
+SPDXID: SPDXRef-173
+FileChecksum: SHA1: c0605317ab24553f3e972103d0027d1fbdb133e2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-codec-1.18.0-src/src/main/resources/org/apache/commons/codec/language/bm/gen_approx_hebrew.txt
+SPDXID: SPDXRef-174
+FileChecksum: SHA1: 9c522da7756e0b486092a5f387b17f5f8c2cf3e8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-codec-1.18.0-src/src/main/resources/org/apache/commons/codec/language/bm/gen_approx_hungarian.txt
+SPDXID: SPDXRef-175
+FileChecksum: SHA1: 14734d62867266d0bb0a0d1803c22c83233e91f8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-codec-1.18.0-src/src/main/resources/org/apache/commons/codec/language/bm/gen_approx_italian.txt
+SPDXID: SPDXRef-176
+FileChecksum: SHA1: 14734d62867266d0bb0a0d1803c22c83233e91f8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-codec-1.18.0-src/src/main/resources/org/apache/commons/codec/language/bm/gen_approx_polish.txt
+SPDXID: SPDXRef-177
+FileChecksum: SHA1: 55e7df7a2c6247c2d07dda37790c60c73e3e9846
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-codec-1.18.0-src/src/main/resources/org/apache/commons/codec/language/bm/gen_approx_portuguese.txt
+SPDXID: SPDXRef-178
+FileChecksum: SHA1: 7541b678d50f5f7e1b8d2a1cd05e421b30348823
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-codec-1.18.0-src/src/main/resources/org/apache/commons/codec/language/bm/gen_approx_romanian.txt
+SPDXID: SPDXRef-179
+FileChecksum: SHA1: 138032380aeb9b9352fcbfeb7e55f725225c826b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-codec-1.18.0-src/src/main/resources/org/apache/commons/codec/language/bm/gen_approx_russian.txt
+SPDXID: SPDXRef-180
+FileChecksum: SHA1: 28585733aa4c3284a24971252e3f69c0f0cd5f7b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-codec-1.18.0-src/src/main/resources/org/apache/commons/codec/language/bm/gen_approx_spanish.txt
+SPDXID: SPDXRef-181
+FileChecksum: SHA1: 889cb6b7a9a5ad237d83b1f7e4955d99e61b4952
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-codec-1.18.0-src/src/main/resources/org/apache/commons/codec/language/bm/gen_approx_turkish.txt
+SPDXID: SPDXRef-182
+FileChecksum: SHA1: 7541b678d50f5f7e1b8d2a1cd05e421b30348823
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-codec-1.18.0-src/src/main/resources/org/apache/commons/codec/language/bm/gen_exact_any.txt
+SPDXID: SPDXRef-183
+FileChecksum: SHA1: 7e74c129ad58a38e866e6f31b08600b438cf09f3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-codec-1.18.0-src/src/main/resources/org/apache/commons/codec/language/bm/gen_exact_approx_common.txt
+SPDXID: SPDXRef-184
+FileChecksum: SHA1: 5bb94f94016d0310e7f51009c67fc85e8c1b1c9f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-codec-1.18.0-src/src/main/resources/org/apache/commons/codec/language/bm/gen_exact_arabic.txt
+SPDXID: SPDXRef-185
+FileChecksum: SHA1: 528f2e07c1ef6a6bca4cf403bc43b38c971d8beb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-codec-1.18.0-src/src/main/resources/org/apache/commons/codec/language/bm/gen_exact_common.txt
+SPDXID: SPDXRef-186
+FileChecksum: SHA1: 2be24f4a3c4b912d51aa224c050092bd6a3ce2c7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-codec-1.18.0-src/src/main/resources/org/apache/commons/codec/language/bm/gen_exact_cyrillic.txt
+SPDXID: SPDXRef-187
+FileChecksum: SHA1: 49bc564aedd2ea2568775a775125fc1f3c86d492
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-codec-1.18.0-src/src/main/resources/org/apache/commons/codec/language/bm/gen_exact_czech.txt
+SPDXID: SPDXRef-188
+FileChecksum: SHA1: 49bc564aedd2ea2568775a775125fc1f3c86d492
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-codec-1.18.0-src/src/main/resources/org/apache/commons/codec/language/bm/gen_exact_dutch.txt
+SPDXID: SPDXRef-189
+FileChecksum: SHA1: 9c522da7756e0b486092a5f387b17f5f8c2cf3e8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-codec-1.18.0-src/src/main/resources/org/apache/commons/codec/language/bm/gen_exact_english.txt
+SPDXID: SPDXRef-190
+FileChecksum: SHA1: 49bc564aedd2ea2568775a775125fc1f3c86d492
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-codec-1.18.0-src/src/main/resources/org/apache/commons/codec/language/bm/gen_exact_french.txt
+SPDXID: SPDXRef-191
+FileChecksum: SHA1: 9c522da7756e0b486092a5f387b17f5f8c2cf3e8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-codec-1.18.0-src/src/main/resources/org/apache/commons/codec/language/bm/gen_exact_german.txt
+SPDXID: SPDXRef-192
+FileChecksum: SHA1: fadef041d5675625bf6661f65c58b9d26bda140a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-codec-1.18.0-src/src/main/resources/org/apache/commons/codec/language/bm/gen_exact_greek.txt
+SPDXID: SPDXRef-193
+FileChecksum: SHA1: 9c522da7756e0b486092a5f387b17f5f8c2cf3e8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-codec-1.18.0-src/src/main/resources/org/apache/commons/codec/language/bm/gen_exact_greeklatin.txt
+SPDXID: SPDXRef-194
+FileChecksum: SHA1: da3a5cca54e88539d89b52f93f66a7e7b5d9a493
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-codec-1.18.0-src/src/main/resources/org/apache/commons/codec/language/bm/gen_exact_hebrew.txt
+SPDXID: SPDXRef-195
+FileChecksum: SHA1: 9c522da7756e0b486092a5f387b17f5f8c2cf3e8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-codec-1.18.0-src/src/main/resources/org/apache/commons/codec/language/bm/gen_exact_hungarian.txt
+SPDXID: SPDXRef-196
+FileChecksum: SHA1: 9c522da7756e0b486092a5f387b17f5f8c2cf3e8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-codec-1.18.0-src/src/main/resources/org/apache/commons/codec/language/bm/gen_exact_italian.txt
+SPDXID: SPDXRef-197
+FileChecksum: SHA1: 9c522da7756e0b486092a5f387b17f5f8c2cf3e8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-codec-1.18.0-src/src/main/resources/org/apache/commons/codec/language/bm/gen_exact_polish.txt
+SPDXID: SPDXRef-198
+FileChecksum: SHA1: d4377ffc4a9996ce24cb85003e49ccb9b3557001
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-codec-1.18.0-src/src/main/resources/org/apache/commons/codec/language/bm/gen_exact_portuguese.txt
+SPDXID: SPDXRef-199
+FileChecksum: SHA1: 9c522da7756e0b486092a5f387b17f5f8c2cf3e8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-codec-1.18.0-src/src/main/resources/org/apache/commons/codec/language/bm/gen_exact_romanian.txt
+SPDXID: SPDXRef-200
+FileChecksum: SHA1: 9c522da7756e0b486092a5f387b17f5f8c2cf3e8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-codec-1.18.0-src/src/main/resources/org/apache/commons/codec/language/bm/gen_exact_russian.txt
+SPDXID: SPDXRef-201
+FileChecksum: SHA1: 2b77820ee9dfb79df2974a93cbfb4c072deefd8a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-codec-1.18.0-src/src/main/resources/org/apache/commons/codec/language/bm/gen_exact_spanish.txt
+SPDXID: SPDXRef-202
+FileChecksum: SHA1: 2a047df798314cd307a03256b4a820b1924ca2e3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-codec-1.18.0-src/src/main/resources/org/apache/commons/codec/language/bm/gen_exact_turkish.txt
+SPDXID: SPDXRef-203
+FileChecksum: SHA1: 9c522da7756e0b486092a5f387b17f5f8c2cf3e8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-codec-1.18.0-src/src/main/resources/org/apache/commons/codec/language/bm/gen_hebrew_common.txt
+SPDXID: SPDXRef-204
+FileChecksum: SHA1: c9c872be00d53dfa21da29476be1db83c53fc012
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-codec-1.18.0-src/src/main/resources/org/apache/commons/codec/language/bm/gen_lang.txt
+SPDXID: SPDXRef-205
+FileChecksum: SHA1: a665d89c448e5a666f8e79306b0a29ef0ba00252
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-codec-1.18.0-src/src/main/resources/org/apache/commons/codec/language/bm/gen_languages.txt
+SPDXID: SPDXRef-206
+FileChecksum: SHA1: 9476de06a2648d66cf9207d446089cc6f3695b54
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-codec-1.18.0-src/src/main/resources/org/apache/commons/codec/language/bm/gen_rules_any.txt
+SPDXID: SPDXRef-207
+FileChecksum: SHA1: f82b88938e297c57d0aa3f357011e870b8cd3536
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-codec-1.18.0-src/src/main/resources/org/apache/commons/codec/language/bm/gen_rules_arabic.txt
+SPDXID: SPDXRef-208
+FileChecksum: SHA1: 2954c19d859019036719e790797812a998796355
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-codec-1.18.0-src/src/main/resources/org/apache/commons/codec/language/bm/gen_rules_cyrillic.txt
+SPDXID: SPDXRef-209
+FileChecksum: SHA1: b0c0dad933594f7361a3f416b1a0f18847296f9a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-codec-1.18.0-src/src/main/resources/org/apache/commons/codec/language/bm/gen_rules_czech.txt
+SPDXID: SPDXRef-210
+FileChecksum: SHA1: 6588739c17f3148f1cf67e1f7ce8d07a9b09514d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-codec-1.18.0-src/src/main/resources/org/apache/commons/codec/language/bm/gen_rules_dutch.txt
+SPDXID: SPDXRef-211
+FileChecksum: SHA1: 504155fcbe1dc2b557fa7296453a949664ec75e9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-codec-1.18.0-src/src/main/resources/org/apache/commons/codec/language/bm/gen_rules_english.txt
+SPDXID: SPDXRef-212
+FileChecksum: SHA1: 9ce7b504cc6290655e681147811ac9263c07260b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-codec-1.18.0-src/src/main/resources/org/apache/commons/codec/language/bm/gen_rules_french.txt
+SPDXID: SPDXRef-213
+FileChecksum: SHA1: 48c73d5c50430530baa4bc34633672aacd3c7d03
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-codec-1.18.0-src/src/main/resources/org/apache/commons/codec/language/bm/gen_rules_german.txt
+SPDXID: SPDXRef-214
+FileChecksum: SHA1: 3d6d23bfeeacba561e5b3f8bbec22e2b18926244
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-codec-1.18.0-src/src/main/resources/org/apache/commons/codec/language/bm/gen_rules_greek.txt
+SPDXID: SPDXRef-215
+FileChecksum: SHA1: 12b5ada882b72dbb5f83e8afe2a70e1d320d4eb9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-codec-1.18.0-src/src/main/resources/org/apache/commons/codec/language/bm/gen_rules_greeklatin.txt
+SPDXID: SPDXRef-216
+FileChecksum: SHA1: 4405923ba9b44d91f59f9157d5b97a71b9459b8e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-codec-1.18.0-src/src/main/resources/org/apache/commons/codec/language/bm/gen_rules_hebrew.txt
+SPDXID: SPDXRef-217
+FileChecksum: SHA1: 2cb4f50edf108628f18936658ea771a4520b29af
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-codec-1.18.0-src/src/main/resources/org/apache/commons/codec/language/bm/gen_rules_hungarian.txt
+SPDXID: SPDXRef-218
+FileChecksum: SHA1: 0bee2ed9edd5e301527c44902876b69e5ce5b195
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-codec-1.18.0-src/src/main/resources/org/apache/commons/codec/language/bm/gen_rules_italian.txt
+SPDXID: SPDXRef-219
+FileChecksum: SHA1: 8740b4d2df1578f43e183af757c66bc60899dddc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-codec-1.18.0-src/src/main/resources/org/apache/commons/codec/language/bm/gen_rules_polish.txt
+SPDXID: SPDXRef-220
+FileChecksum: SHA1: 7a9eb1047cceaf7b68891416e9d98995ec7e8c55
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-codec-1.18.0-src/src/main/resources/org/apache/commons/codec/language/bm/gen_rules_portuguese.txt
+SPDXID: SPDXRef-221
+FileChecksum: SHA1: c44e423d652cdca0056b10f935f4b47c2cb17791
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-codec-1.18.0-src/src/main/resources/org/apache/commons/codec/language/bm/gen_rules_romanian.txt
+SPDXID: SPDXRef-222
+FileChecksum: SHA1: 6d94830cf69b4a14b3c6271e5583ab820befb991
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-codec-1.18.0-src/src/main/resources/org/apache/commons/codec/language/bm/gen_rules_russian.txt
+SPDXID: SPDXRef-223
+FileChecksum: SHA1: 581997803d03482a5ae786de270a5e37d428565f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-codec-1.18.0-src/src/main/resources/org/apache/commons/codec/language/bm/gen_rules_spanish.txt
+SPDXID: SPDXRef-224
+FileChecksum: SHA1: a5c33d0d73ca36d8357e2eb51fbda98d5e2efcf2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-codec-1.18.0-src/src/main/resources/org/apache/commons/codec/language/bm/gen_rules_turkish.txt
+SPDXID: SPDXRef-225
+FileChecksum: SHA1: 5584f9d4bb17ff6b8911bbdb7de96af2654fcb94
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-codec-1.18.0-src/src/main/resources/org/apache/commons/codec/language/bm/lang.txt
+SPDXID: SPDXRef-226
+FileChecksum: SHA1: b028405645789c5751e9ddab98aeab563a97aaa6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-codec-1.18.0-src/src/main/resources/org/apache/commons/codec/language/bm/sep_approx_any.txt
+SPDXID: SPDXRef-227
+FileChecksum: SHA1: 06b4a0a7fa63247966be454f466a50da9a2b9faa
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-codec-1.18.0-src/src/main/resources/org/apache/commons/codec/language/bm/sep_approx_common.txt
+SPDXID: SPDXRef-228
+FileChecksum: SHA1: 1154eb55db8685599cdcb7209db669be5b012c46
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-codec-1.18.0-src/src/main/resources/org/apache/commons/codec/language/bm/sep_approx_french.txt
+SPDXID: SPDXRef-229
+FileChecksum: SHA1: 9c522da7756e0b486092a5f387b17f5f8c2cf3e8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-codec-1.18.0-src/src/main/resources/org/apache/commons/codec/language/bm/sep_approx_hebrew.txt
+SPDXID: SPDXRef-230
+FileChecksum: SHA1: 9c522da7756e0b486092a5f387b17f5f8c2cf3e8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-codec-1.18.0-src/src/main/resources/org/apache/commons/codec/language/bm/sep_approx_italian.txt
+SPDXID: SPDXRef-231
+FileChecksum: SHA1: 454dfeb68a8209904fa027312f058ff9f413f08f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-codec-1.18.0-src/src/main/resources/org/apache/commons/codec/language/bm/sep_approx_portuguese.txt
+SPDXID: SPDXRef-232
+FileChecksum: SHA1: fde295b89336961caa3303bf25439a5dcbd25bae
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-codec-1.18.0-src/src/main/resources/org/apache/commons/codec/language/bm/sep_approx_spanish.txt
+SPDXID: SPDXRef-233
+FileChecksum: SHA1: fde295b89336961caa3303bf25439a5dcbd25bae
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-codec-1.18.0-src/src/main/resources/org/apache/commons/codec/language/bm/sep_exact_any.txt
+SPDXID: SPDXRef-234
+FileChecksum: SHA1: 044bc3d0b0c6e7a7fa23d24a817bc263f26c683d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-codec-1.18.0-src/src/main/resources/org/apache/commons/codec/language/bm/sep_exact_approx_common.txt
+SPDXID: SPDXRef-235
+FileChecksum: SHA1: 56e724824e10c70c1336ce8cad6a450bb92f8917
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-codec-1.18.0-src/src/main/resources/org/apache/commons/codec/language/bm/sep_exact_common.txt
+SPDXID: SPDXRef-236
+FileChecksum: SHA1: 0d8a54550ee1c63c0e5e56accfe0a37eb799ea94
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-codec-1.18.0-src/src/main/resources/org/apache/commons/codec/language/bm/sep_exact_french.txt
+SPDXID: SPDXRef-237
+FileChecksum: SHA1: 8c3a8a8b8591fad911fa16982d369768e22836b7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-codec-1.18.0-src/src/main/resources/org/apache/commons/codec/language/bm/sep_exact_hebrew.txt
+SPDXID: SPDXRef-238
+FileChecksum: SHA1: 9c522da7756e0b486092a5f387b17f5f8c2cf3e8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-codec-1.18.0-src/src/main/resources/org/apache/commons/codec/language/bm/sep_exact_italian.txt
+SPDXID: SPDXRef-239
+FileChecksum: SHA1: 9c522da7756e0b486092a5f387b17f5f8c2cf3e8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-codec-1.18.0-src/src/main/resources/org/apache/commons/codec/language/bm/sep_exact_portuguese.txt
+SPDXID: SPDXRef-240
+FileChecksum: SHA1: 9c522da7756e0b486092a5f387b17f5f8c2cf3e8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-codec-1.18.0-src/src/main/resources/org/apache/commons/codec/language/bm/sep_exact_spanish.txt
+SPDXID: SPDXRef-241
+FileChecksum: SHA1: 9c522da7756e0b486092a5f387b17f5f8c2cf3e8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-codec-1.18.0-src/src/main/resources/org/apache/commons/codec/language/bm/sep_hebrew_common.txt
+SPDXID: SPDXRef-242
+FileChecksum: SHA1: 9793e09e07414e0e771308261e8867daee04d9c6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-codec-1.18.0-src/src/main/resources/org/apache/commons/codec/language/bm/sep_lang.txt
+SPDXID: SPDXRef-243
+FileChecksum: SHA1: 1b6ff49f2cdf38f1fc4800f0bd37e1c0ba200c42
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-codec-1.18.0-src/src/main/resources/org/apache/commons/codec/language/bm/sep_languages.txt
+SPDXID: SPDXRef-244
+FileChecksum: SHA1: 6431024e6a80181eb6bcce15e1b4ac000dad91e3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-codec-1.18.0-src/src/main/resources/org/apache/commons/codec/language/bm/sep_rules_any.txt
+SPDXID: SPDXRef-245
+FileChecksum: SHA1: 0b44389aa2dbf406253fa540968bb19fbdbba769
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-codec-1.18.0-src/src/main/resources/org/apache/commons/codec/language/bm/sep_rules_french.txt
+SPDXID: SPDXRef-246
+FileChecksum: SHA1: a4fb92927dc4b81342096786be3d565f62489a04
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-codec-1.18.0-src/src/main/resources/org/apache/commons/codec/language/bm/sep_rules_hebrew.txt
+SPDXID: SPDXRef-247
+FileChecksum: SHA1: 4f79e0286515f0eb15d36b49fdcd8c581ba1802b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-codec-1.18.0-src/src/main/resources/org/apache/commons/codec/language/bm/sep_rules_italian.txt
+SPDXID: SPDXRef-248
+FileChecksum: SHA1: 9cf50ea3c723f80071121d3d1c9f2af20e85e539
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-codec-1.18.0-src/src/main/resources/org/apache/commons/codec/language/bm/sep_rules_portuguese.txt
+SPDXID: SPDXRef-249
+FileChecksum: SHA1: a620994728e0a0b1353116eed8cdd60ae0da03a7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-codec-1.18.0-src/src/main/resources/org/apache/commons/codec/language/bm/sep_rules_spanish.txt
+SPDXID: SPDXRef-250
+FileChecksum: SHA1: 4fdb18ccd76ed70ac8bab457e3c9ea6b759a8d08
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-codec-1.18.0-src/src/media/logo.xcf
+SPDXID: SPDXRef-252
+FileChecksum: SHA1: 8d8b39d9cfd70394026a8eb57de328ed0eb076b5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NONE
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-codec-1.18.0-src/src/site/site.xml
+SPDXID: SPDXRef-254
+FileChecksum: SHA1: 03c6fc3c6185916421a78b2209c72b18ef21f973
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-codec-1.18.0-src/src/site/resources/.htaccess
+SPDXID: SPDXRef-256
+FileChecksum: SHA1: a4e8a4cfa92a751a07fe0f9b62adb201cb9eff9a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-codec-1.18.0-src/src/site/resources/download_codec.cgi
+SPDXID: SPDXRef-257
+FileChecksum: SHA1: dded98c826d542e13fceebc5323d050ed25995d5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NONE
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-codec-1.18.0-src/src/site/resources/profile.jacoco
+SPDXID: SPDXRef-258
+FileChecksum: SHA1: 13423125625439aed534f955b800848fd8951f26
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-codec-1.18.0-src/src/site/resources/images/logo.png
+SPDXID: SPDXRef-260
+FileChecksum: SHA1: aee519f05815707f210c21519c825b070beece2f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NONE
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-codec-1.18.0-src/src/site/xdoc/download_codec.xml
+SPDXID: SPDXRef-262
+FileChecksum: SHA1: e43dfabf56d4c9f6ad911246a62706dd4605a711
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-codec-1.18.0-src/src/site/xdoc/index.xml
+SPDXID: SPDXRef-263
+FileChecksum: SHA1: 723220c64c4282e4fe8a855fc3fbf96b3b05ca69
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-codec-1.18.0-src/src/site/xdoc/issue-tracking.xml
+SPDXID: SPDXRef-264
+FileChecksum: SHA1: 5c377bc09fabd7656ab00f663bc89a1ea054df07
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-codec-1.18.0-src/src/site/xdoc/mail-lists.xml
+SPDXID: SPDXRef-265
+FileChecksum: SHA1: d233d7881dd4d86d84d50d4c7356916199d0b214
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-codec-1.18.0-src/src/site/xdoc/proposal.xml
+SPDXID: SPDXRef-266
+FileChecksum: SHA1: 58b6b434b55642910209e9c7e878a4335a133510
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-codec-1.18.0-src/src/site/xdoc/security.xml
+SPDXID: SPDXRef-267
+FileChecksum: SHA1: 8f79de69ce2a0fa044fe1e6b573bce0f4afcd0ee
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-codec-1.18.0-src/src/test/java/org/apache/commons/codec/AbstractStringEncoderTest.java
+SPDXID: SPDXRef-274
+FileChecksum: SHA1: 974415d856aa19b1ab35f9f65356355e7596eac5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-codec-1.18.0-src/src/test/java/org/apache/commons/codec/BinaryEncoderAbstractTest.java
+SPDXID: SPDXRef-275
+FileChecksum: SHA1: 7f03ea75a0319c2d3f6351baf15588e5a5a6de57
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-codec-1.18.0-src/src/test/java/org/apache/commons/codec/CharEncodingTest.java
+SPDXID: SPDXRef-276
+FileChecksum: SHA1: 8adf7fffd3efd669fbde0ea4f7492bd76fbd58eb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-codec-1.18.0-src/src/test/java/org/apache/commons/codec/CharsetsTest.java
+SPDXID: SPDXRef-277
+FileChecksum: SHA1: 93d495a2d2dde547b6e96c2a586b129aab6b3d42
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-codec-1.18.0-src/src/test/java/org/apache/commons/codec/DecoderExceptionTest.java
+SPDXID: SPDXRef-278
+FileChecksum: SHA1: d1bd5677dd07fe0a76e2c40dd5575772b34a517d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-codec-1.18.0-src/src/test/java/org/apache/commons/codec/EncoderExceptionTest.java
+SPDXID: SPDXRef-279
+FileChecksum: SHA1: bff910f2c3bbc1795ff08b6214dc87156cbec271
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-codec-1.18.0-src/src/test/java/org/apache/commons/codec/ResourcesTest.java
+SPDXID: SPDXRef-280
+FileChecksum: SHA1: d4af5dae57e278b5622fc4ea5f5c85464f31622e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-codec-1.18.0-src/src/test/java/org/apache/commons/codec/StringEncoderComparatorTest.java
+SPDXID: SPDXRef-281
+FileChecksum: SHA1: 42704f69a03fbc78560938a1e86e27b31d48f2d8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-codec-1.18.0-src/src/test/java/org/apache/commons/codec/binary/AllocateDirectHexTest.java
+SPDXID: SPDXRef-283
+FileChecksum: SHA1: 75936926e1b2945e9c87c0c114ebf1771b40eee8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-codec-1.18.0-src/src/test/java/org/apache/commons/codec/binary/Base16InputStreamTest.java
+SPDXID: SPDXRef-284
+FileChecksum: SHA1: 70925ba5d5c7ca323a3e347f552da1cdebb762d5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-codec-1.18.0-src/src/test/java/org/apache/commons/codec/binary/Base16OutputStreamTest.java
+SPDXID: SPDXRef-285
+FileChecksum: SHA1: 5b5e174a66c833eb7aa0efa4c97365dcd78ec2ba
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-codec-1.18.0-src/src/test/java/org/apache/commons/codec/binary/Base16Test.java
+SPDXID: SPDXRef-286
+FileChecksum: SHA1: 48581aee2cea7ceb0581f43fca41d3773b3c296b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-codec-1.18.0-src/src/test/java/org/apache/commons/codec/binary/Base16TestData.java
+SPDXID: SPDXRef-287
+FileChecksum: SHA1: ead5df556096601ee64511677866ae8988f553b5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-codec-1.18.0-src/src/test/java/org/apache/commons/codec/binary/Base32InputStreamTest.java
+SPDXID: SPDXRef-288
+FileChecksum: SHA1: 84ef857e91e0d7cee3e15a29d30f861d8858f1ea
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-codec-1.18.0-src/src/test/java/org/apache/commons/codec/binary/Base32OutputStreamTest.java
+SPDXID: SPDXRef-289
+FileChecksum: SHA1: 948e04dff6e3f483b89581fe28c7c241e0050657
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-codec-1.18.0-src/src/test/java/org/apache/commons/codec/binary/Base32Test.java
+SPDXID: SPDXRef-290
+FileChecksum: SHA1: 649a589c624e85c0149ba11ddcc20ac0c30f22e9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-codec-1.18.0-src/src/test/java/org/apache/commons/codec/binary/Base32TestData.java
+SPDXID: SPDXRef-291
+FileChecksum: SHA1: 875f9e4d348f71d72cbb6369f39de7228e51731a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-codec-1.18.0-src/src/test/java/org/apache/commons/codec/binary/Base64Codec13Test.java
+SPDXID: SPDXRef-292
+FileChecksum: SHA1: ad3556537100faaf98367daaadbb06045f04a69c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-codec-1.18.0-src/src/test/java/org/apache/commons/codec/binary/Base64InputStreamTest.java
+SPDXID: SPDXRef-293
+FileChecksum: SHA1: 732015c6b63e48349cadf63867a2be2abc151377
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-codec-1.18.0-src/src/test/java/org/apache/commons/codec/binary/Base64OutputStreamTest.java
+SPDXID: SPDXRef-294
+FileChecksum: SHA1: 08163b8e52e47c0a36944d54fe5752792331024b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-codec-1.18.0-src/src/test/java/org/apache/commons/codec/binary/Base64Test.java
+SPDXID: SPDXRef-295
+FileChecksum: SHA1: e9abf0fabbc6a611de6075263d39a66a0c433629
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-codec-1.18.0-src/src/test/java/org/apache/commons/codec/binary/Base64TestData.java
+SPDXID: SPDXRef-296
+FileChecksum: SHA1: 6e7b58ad21e5f2b16b940b638ad23176023e6a69
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-codec-1.18.0-src/src/test/java/org/apache/commons/codec/binary/BaseNCodecTest.java
+SPDXID: SPDXRef-297
+FileChecksum: SHA1: bf58387354329e0938c5645208a0aae39f3ee8a4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-codec-1.18.0-src/src/test/java/org/apache/commons/codec/binary/BaseNTestData.java
+SPDXID: SPDXRef-298
+FileChecksum: SHA1: e031a9d009159bc7c05e86c0d2523e4db3d17cf0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-codec-1.18.0-src/src/test/java/org/apache/commons/codec/binary/BinaryCodecTest.java
+SPDXID: SPDXRef-299
+FileChecksum: SHA1: 40b8a7c0757a2e828e41df2b8b0e081f9f14910b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-codec-1.18.0-src/src/test/java/org/apache/commons/codec/binary/CharSequenceUtilsTest.java
+SPDXID: SPDXRef-300
+FileChecksum: SHA1: 6d434d1a5a826de4cbd85f2b89e1d182e34dc048
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-codec-1.18.0-src/src/test/java/org/apache/commons/codec/binary/Codec105ErrorInputStream.java
+SPDXID: SPDXRef-301
+FileChecksum: SHA1: 8070120a381b863f5002f170a48e473217c1a1be
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-codec-1.18.0-src/src/test/java/org/apache/commons/codec/binary/HexTest.java
+SPDXID: SPDXRef-302
+FileChecksum: SHA1: 47916dca6e95e29be925fef1f0a404545f11c9cf
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-codec-1.18.0-src/src/test/java/org/apache/commons/codec/binary/StringUtilsTest.java
+SPDXID: SPDXRef-303
+FileChecksum: SHA1: 1e8a0f65d97ef1818e42d50a87615b97d380ef54
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-codec-1.18.0-src/src/test/java/org/apache/commons/codec/cli/DigestTest.java
+SPDXID: SPDXRef-305
+FileChecksum: SHA1: 9fb307e3cde2b81318e235422d726bfb2252d094
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-codec-1.18.0-src/src/test/java/org/apache/commons/codec/digest/Apr1CryptTest.java
+SPDXID: SPDXRef-307
+FileChecksum: SHA1: d2dc4cdd9f98241c59a90ff1b802a89b9e219201
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-codec-1.18.0-src/src/test/java/org/apache/commons/codec/digest/B64Test.java
+SPDXID: SPDXRef-308
+FileChecksum: SHA1: 75477786c5db0627f3731af1b244ebd538472728
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-codec-1.18.0-src/src/test/java/org/apache/commons/codec/digest/Blake3Test.java
+SPDXID: SPDXRef-309
+FileChecksum: SHA1: 70a77725c568f6387d229b0e416de9f671ac83b2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-codec-1.18.0-src/src/test/java/org/apache/commons/codec/digest/Blake3TestVectorsTest.java
+SPDXID: SPDXRef-310
+FileChecksum: SHA1: e7afc8f08f85e7a28e42dae154a9a6a5f3c6da21
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-codec-1.18.0-src/src/test/java/org/apache/commons/codec/digest/CryptTest.java
+SPDXID: SPDXRef-311
+FileChecksum: SHA1: 299087b8f7d91f6c14820de97a377dcab4d886c3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-codec-1.18.0-src/src/test/java/org/apache/commons/codec/digest/DigestUtilsTest.java
+SPDXID: SPDXRef-312
+FileChecksum: SHA1: b210da70e8f9db85ee0e192ac050ceb560a1b8f8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-codec-1.18.0-src/src/test/java/org/apache/commons/codec/digest/HmacAlgorithmsTest.java
+SPDXID: SPDXRef-313
+FileChecksum: SHA1: 297f7999df15ae1d25e758cacf30c1bf21faba0f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-codec-1.18.0-src/src/test/java/org/apache/commons/codec/digest/HmacUtilsTest.java
+SPDXID: SPDXRef-314
+FileChecksum: SHA1: f278089d25a67d1d6ffc4b2e224a23238be80abb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-codec-1.18.0-src/src/test/java/org/apache/commons/codec/digest/Md5CryptTest.java
+SPDXID: SPDXRef-315
+FileChecksum: SHA1: 9c70ab52e39e52c51d1ddb0fc15e226ca8c1ce22
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-codec-1.18.0-src/src/test/java/org/apache/commons/codec/digest/MessageDigestAlgorithmsTest.java
+SPDXID: SPDXRef-316
+FileChecksum: SHA1: 942fe1a1028f49d95de74168c510abab927956d5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-codec-1.18.0-src/src/test/java/org/apache/commons/codec/digest/MurmurHash2Test.java
+SPDXID: SPDXRef-317
+FileChecksum: SHA1: 0a1ec152b79cf4049a9afdea42666ef3b84706ca
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-codec-1.18.0-src/src/test/java/org/apache/commons/codec/digest/MurmurHash3Test.java
+SPDXID: SPDXRef-318
+FileChecksum: SHA1: 20669433a8b742930269fb8f901c86bc8066aee1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-codec-1.18.0-src/src/test/java/org/apache/commons/codec/digest/PureJavaCrc32CTest.java
+SPDXID: SPDXRef-319
+FileChecksum: SHA1: dbba170a1b53b6b462b409b9069428724a3135f2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-codec-1.18.0-src/src/test/java/org/apache/commons/codec/digest/PureJavaCrc32Test.java
+SPDXID: SPDXRef-320
+FileChecksum: SHA1: 46e7112c17a8429c509d907f47bc24f3e0e1e1bd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-codec-1.18.0-src/src/test/java/org/apache/commons/codec/digest/Sha256CryptTest.java
+SPDXID: SPDXRef-321
+FileChecksum: SHA1: 2312f8f844bc420461aa1111fc60a0a075b6979c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-codec-1.18.0-src/src/test/java/org/apache/commons/codec/digest/Sha2CryptTest.java
+SPDXID: SPDXRef-322
+FileChecksum: SHA1: b4624aa2fe9f88c8cd5d1621e8c887b79419d04f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-codec-1.18.0-src/src/test/java/org/apache/commons/codec/digest/Sha512CryptTest.java
+SPDXID: SPDXRef-323
+FileChecksum: SHA1: 30265460e861f2e16291db2babd033930eeedb3c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-codec-1.18.0-src/src/test/java/org/apache/commons/codec/digest/UnixCryptTest.java
+SPDXID: SPDXRef-324
+FileChecksum: SHA1: 71642c24d214b4a8591ea56bfa401d62c6a9ea78
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-codec-1.18.0-src/src/test/java/org/apache/commons/codec/digest/XXHash32OverflowTest.java
+SPDXID: SPDXRef-325
+FileChecksum: SHA1: b525075ddaf08932c55e042dc6ee4b591bbc3c2a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-codec-1.18.0-src/src/test/java/org/apache/commons/codec/digest/XXHash32Test.java
+SPDXID: SPDXRef-326
+FileChecksum: SHA1: a87ce559c585b27bba2090e5de5b32b5bc30929f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-codec-1.18.0-src/src/test/java/org/apache/commons/codec/language/Caverphone1Test.java
+SPDXID: SPDXRef-328
+FileChecksum: SHA1: a363509ff8aa65bf950f10ad0e06f86d2deb76b6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-codec-1.18.0-src/src/test/java/org/apache/commons/codec/language/Caverphone2Test.java
+SPDXID: SPDXRef-329
+FileChecksum: SHA1: 36f7a7691ca7a0cf50a2ed88fdb9778609f693ec
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-codec-1.18.0-src/src/test/java/org/apache/commons/codec/language/ColognePhoneticTest.java
+SPDXID: SPDXRef-330
+FileChecksum: SHA1: 126ff0ddad847799860d0bd0142773517bf59992
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-codec-1.18.0-src/src/test/java/org/apache/commons/codec/language/DaitchMokotoffSoundexTest.java
+SPDXID: SPDXRef-331
+FileChecksum: SHA1: d1896d62ead85b63906e20dceca7ffd0d02e8679
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-codec-1.18.0-src/src/test/java/org/apache/commons/codec/language/DoubleMetaphone2Test.java
+SPDXID: SPDXRef-332
+FileChecksum: SHA1: 9540e3777d9ecc8a358e5fb58373f93fb82ed018
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-codec-1.18.0-src/src/test/java/org/apache/commons/codec/language/DoubleMetaphoneTest.java
+SPDXID: SPDXRef-333
+FileChecksum: SHA1: 6e30c19c6ae83eefdfb7d91bd8c471bfe4d006ad
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+LicenseInfoInFile: LicenseRef-scancode-other-permissive
+FileCopyrightText: <text>Copyright (c) 2002 Kevin Atkinson (kevina@gnu.org)
+</text>
+
+## File Information
+FileName: ./commons-codec-1.18.0-src/src/test/java/org/apache/commons/codec/language/MatchRatingApproachEncoderTest.java
+SPDXID: SPDXRef-334
+FileChecksum: SHA1: dd5f92aa43dd7e6468475df33e9e496f900535eb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-codec-1.18.0-src/src/test/java/org/apache/commons/codec/language/MetaphoneTest.java
+SPDXID: SPDXRef-335
+FileChecksum: SHA1: 38b994b3571fb3f42f69b8b1c2b549cb9401d4c5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-codec-1.18.0-src/src/test/java/org/apache/commons/codec/language/NysiisTest.java
+SPDXID: SPDXRef-336
+FileChecksum: SHA1: a2b9a39865b6c4365a408616c1f5ef9cd8db323a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-codec-1.18.0-src/src/test/java/org/apache/commons/codec/language/RefinedSoundexTest.java
+SPDXID: SPDXRef-337
+FileChecksum: SHA1: fb780fa2e7b9d33c90175dd4ba43c05f7c5e809f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-codec-1.18.0-src/src/test/java/org/apache/commons/codec/language/SoundexTest.java
+SPDXID: SPDXRef-338
+FileChecksum: SHA1: 1ec514e8df12aeb4676165793f4535ed8189d85b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-codec-1.18.0-src/src/test/java/org/apache/commons/codec/language/bm/BeiderMorseEncoderTest.java
+SPDXID: SPDXRef-340
+FileChecksum: SHA1: 4d3e5cb23f83cc8335fdb6c355f12b736ca05611
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-codec-1.18.0-src/src/test/java/org/apache/commons/codec/language/bm/CacheSubSequencePerformanceTest.java
+SPDXID: SPDXRef-341
+FileChecksum: SHA1: 7f575b12790dc661feea7f83c69c2903f64ceed8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-codec-1.18.0-src/src/test/java/org/apache/commons/codec/language/bm/LanguageGuessingTest.java
+SPDXID: SPDXRef-342
+FileChecksum: SHA1: b487e7ee75549a9d5e754dddb1153b4dfaf54758
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-codec-1.18.0-src/src/test/java/org/apache/commons/codec/language/bm/PhoneticEnginePerformanceTest.java
+SPDXID: SPDXRef-343
+FileChecksum: SHA1: 109550116af2c27d5db287751485250d1aa7c2f6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-codec-1.18.0-src/src/test/java/org/apache/commons/codec/language/bm/PhoneticEngineRegressionTest.java
+SPDXID: SPDXRef-344
+FileChecksum: SHA1: fcc2978f5659f61265b516d7552b4c3a35d6d78c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-codec-1.18.0-src/src/test/java/org/apache/commons/codec/language/bm/PhoneticEngineTest.java
+SPDXID: SPDXRef-345
+FileChecksum: SHA1: adda5ba509f4972fddf0073f4f6ed3fc8f0d0520
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-codec-1.18.0-src/src/test/java/org/apache/commons/codec/language/bm/RuleTest.java
+SPDXID: SPDXRef-346
+FileChecksum: SHA1: 47099c2325845d4598552c24c7c5920e58ff29d3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-codec-1.18.0-src/src/test/java/org/apache/commons/codec/net/BCodecTest.java
+SPDXID: SPDXRef-348
+FileChecksum: SHA1: be68608f138bf8e861c346f870cfa90d6fede887
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-codec-1.18.0-src/src/test/java/org/apache/commons/codec/net/PercentCodecTest.java
+SPDXID: SPDXRef-349
+FileChecksum: SHA1: f89648323bbddaefe889f2d4e81a82bc4a0ed541
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-codec-1.18.0-src/src/test/java/org/apache/commons/codec/net/QCodecTest.java
+SPDXID: SPDXRef-350
+FileChecksum: SHA1: 65dcdf15840518997c6b983a683c94d4ebe4bb72
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-codec-1.18.0-src/src/test/java/org/apache/commons/codec/net/QuotedPrintableCodecTest.java
+SPDXID: SPDXRef-351
+FileChecksum: SHA1: 80e028391901e733d33f7842a529ad43d6a710ab
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-codec-1.18.0-src/src/test/java/org/apache/commons/codec/net/RFC1522CodecTest.java
+SPDXID: SPDXRef-352
+FileChecksum: SHA1: e17797e2dfde60bcbd19a00e4b09e7aca8a5e937
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-codec-1.18.0-src/src/test/java/org/apache/commons/codec/net/RFC1522OverrideTestCodec.java
+SPDXID: SPDXRef-353
+FileChecksum: SHA1: e08a5cb47aac78d5a12ce8fc834c926f92ae9afe
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-codec-1.18.0-src/src/test/java/org/apache/commons/codec/net/URLCodecTest.java
+SPDXID: SPDXRef-354
+FileChecksum: SHA1: aee86235385cd585013456b42f877fce9837a97c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-codec-1.18.0-src/src/test/java/org/apache/commons/codec/net/UtilsTest.java
+SPDXID: SPDXRef-355
+FileChecksum: SHA1: 10d1fbb6bae6a4f8af70efef6e41a9e5d48aee90
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-codec-1.18.0-src/src/test/resources/org/apache/commons/codec/bla.tar
+SPDXID: SPDXRef-361
+FileChecksum: SHA1: 396d8c06d218bf8c9af912a21db556c121449e40
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NONE
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-codec-1.18.0-src/src/test/resources/org/apache/commons/codec/bla.tar.xz
+SPDXID: SPDXRef-362
+FileChecksum: SHA1: fbd128bc5fdab15bc74a5f2f1cbbd28c982f6fa2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NONE
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-codec-1.18.0-src/src/test/resources/org/apache/commons/codec/empty.bin
+SPDXID: SPDXRef-363
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NONE
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-codec-1.18.0-src/src/test/resources/org/apache/commons/codec/small.bin
+SPDXID: SPDXRef-364
+FileChecksum: SHA1: f73d859d2570d039fe7467754401a9773eb2808e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NONE
+FileCopyrightText: NONE
+
+## License Information
+LicenseID: LicenseRef-scancode-generic-cla
+ExtractedText: <text>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/generic-cla.LICENSE
+</text>
+LicenseName: Generic CLA
+LicenseComment: <text>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/generic-cla.LICENSE
+</text>
+
+LicenseID: LicenseRef-scancode-generic-cla
+ExtractedText: <text>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/generic-cla.LICENSE
+</text>
+LicenseName: Generic CLA
+LicenseComment: <text>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/generic-cla.LICENSE
+</text>
+
+LicenseID: LicenseRef-scancode-generic-cla
+ExtractedText: <text>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/generic-cla.LICENSE
+</text>
+LicenseName: Generic CLA
+LicenseComment: <text>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/generic-cla.LICENSE
+</text>
+
+LicenseID: LicenseRef-scancode-unknown-license-reference
+ExtractedText: <text>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/unknown-license-reference.LICENSE
+</text>
+LicenseName: Unknown License reference
+LicenseComment: <text>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/unknown-license-reference.LICENSE
+</text>
+
+LicenseID: LicenseRef-scancode-unknown-license-reference
+ExtractedText: <text>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/unknown-license-reference.LICENSE
+</text>
+LicenseName: Unknown License reference
+LicenseComment: <text>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/unknown-license-reference.LICENSE
+</text>
+
+LicenseID: LicenseRef-scancode-public-domain
+ExtractedText: <text>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/public-domain.LICENSE
+</text>
+LicenseName: Public Domain
+LicenseComment: <text>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/public-domain.LICENSE
+</text>
+
+LicenseID: LicenseRef-scancode-public-domain
+ExtractedText: <text>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/public-domain.LICENSE
+</text>
+LicenseName: Public Domain
+LicenseComment: <text>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/public-domain.LICENSE
+</text>
+
+LicenseID: LicenseRef-scancode-public-domain
+ExtractedText: <text>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/public-domain.LICENSE
+</text>
+LicenseName: Public Domain
+LicenseComment: <text>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/public-domain.LICENSE
+</text>
+
+LicenseID: LicenseRef-scancode-public-domain
+ExtractedText: <text>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/public-domain.LICENSE
+</text>
+LicenseName: Public Domain
+LicenseComment: <text>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/public-domain.LICENSE
+</text>
+
+LicenseID: LicenseRef-scancode-public-domain
+ExtractedText: <text>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/public-domain.LICENSE
+</text>
+LicenseName: Public Domain
+LicenseComment: <text>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/public-domain.LICENSE
+</text>
+
+LicenseID: LicenseRef-scancode-public-domain
+ExtractedText: <text>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/public-domain.LICENSE
+</text>
+LicenseName: Public Domain
+LicenseComment: <text>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/public-domain.LICENSE
+</text>
+
+LicenseID: LicenseRef-scancode-public-domain
+ExtractedText: <text>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/public-domain.LICENSE
+</text>
+LicenseName: Public Domain
+LicenseComment: <text>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/public-domain.LICENSE
+</text>
+
+LicenseID: LicenseRef-scancode-other-permissive
+ExtractedText: <text>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/other-permissive.LICENSE
+</text>
+LicenseName: Other Permissive Licenses
+LicenseComment: <text>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/other-permissive.LICENSE
+</text>
+
+
